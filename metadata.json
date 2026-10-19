@@ -1,0 +1,6 @@
+{
+  "name": "Was essen bei Sodbrennen? - Verkaufsseite",
+  "description": "Offizielle Verkaufsseite für den E-Book Ratgeber 'Was essen bei Sodbrennen? Der sanfte Weg zu einer beschwerdefreien Verdauung'.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
